@@ -1,4 +1,4 @@
-How to run 
+How to run:
 
-cd project
+cd project,
 npm run dev 
